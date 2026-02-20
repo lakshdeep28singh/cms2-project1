@@ -132,6 +132,13 @@
 		"core/paragraph": {
 			"typography": {
 			"lineHeight": "1.7"
+			},
+			"core/list": {
+			"spacing": {
+				"padding": {
+				"left": "1.2rem"
+				}
+			}
 			}
 		},
 		"core/heading": {
