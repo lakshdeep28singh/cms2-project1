@@ -102,6 +102,9 @@
 			}
 		},
 		"button": {
+			"typography": {
+  			"textTransform": "uppercase"
+			},
 			"color": {
 			"background": "var(--wp--preset--color--primary)",
 			"text": "#ffffff"
