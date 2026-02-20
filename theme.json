@@ -173,6 +173,11 @@
 				"right": "0.5rem"
 			}
 			}
+		},
+		"core/pullquote": {
+		"color": {
+			"background": "#f3f4f6"
+		}
 		}
 		}
 	},
